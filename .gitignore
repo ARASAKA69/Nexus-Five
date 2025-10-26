@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Compiled files
+*.class
+*.o
+*.out
+*.exe
+
+# Environment files
+.env
+
+# Placeholder/logo.png
+placeholder/logo.png
